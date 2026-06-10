@@ -1,4 +1,5 @@
 SAA Anti-Fraud: Automated Auto Insurance Fraud Detection   This project implements a comprehensive Machine Learning pipeline designed to identify fraudulent auto insurance claims. Built to handle severe class imbalance in real-world data, the system maximizes fraud detection while minimizing false alarms.  
+
 Key Features:
 * Hybrid Architecture (Doakes): Utilizes a Stacking Ensemble model (XGBoost, LightGBM, ExtraTrees) enriched by an unsupervised anomaly detection algorithm (Local Outlier Factor - LOF).
 * Interactive Interface: A web application built with Streamlit allowing users to import datasets, analyze scores, and generate automated PDF reports.
